@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350797678652",
+    "project_id": "techliv-ffa68",
+    "storage_bucket": "techliv-ffa68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350797678652:android:8f7ad1a8e4d2b60e709b39",
+        "android_client_info": {
+          "package_name": "com.elveena.techliv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350797678652-abion8jvvt604j5vst2o7rfforp68krt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvlzGusbryi55Rxv--d5ji4m2XLwL4-jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350797678652-abion8jvvt604j5vst2o7rfforp68krt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

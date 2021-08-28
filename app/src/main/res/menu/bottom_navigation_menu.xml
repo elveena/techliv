@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_nav_graph"
+        android:title="Graph"
+        android:icon="@drawable/ic_pie_chart"/>
+
+    <item
+        android:id="@+id/bottom_nav_stats"
+        android:title="Stats"
+        android:icon="@drawable/ic_stats"/>
+
+    <item
+        android:id="@+id/bottom_nav_challenges"
+        android:title="Challenges"
+        android:icon="@drawable/ic_baseline_games_24"/>
+
+</menu>

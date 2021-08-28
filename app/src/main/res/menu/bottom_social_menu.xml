@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_social_messages"
+        android:title="Messages"
+        android:icon="@drawable/ic_baseline_message_24"/>
+
+    <item
+        android:id="@+id/bottom_social_feed"
+        android:title="Feed"
+        android:icon="@drawable/ic_stats"/>
+
+
+</menu>
